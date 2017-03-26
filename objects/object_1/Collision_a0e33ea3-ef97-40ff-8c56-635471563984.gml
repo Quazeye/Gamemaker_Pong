@@ -1,0 +1,2 @@
+ballSpeedX *= -1;
+
