@@ -1,1 +1,1 @@
-draw_circle(x,y,10,false);
+draw_circle(x,y,radius,false);

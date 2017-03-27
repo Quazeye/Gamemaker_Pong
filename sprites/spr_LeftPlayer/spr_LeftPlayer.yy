@@ -7,32 +7,32 @@
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 69,
-    "bbox_left": 26,
-    "bbox_right": 43,
+    "bbox_left": 0,
+    "bbox_right": 17,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 2,
     "frames": [
         {
-            "id": "49fa944c-ce6c-4172-8863-cad9cc979486",
+            "id": "a019ff68-c210-437d-80a4-e1603fb5466b",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "5c2ad0bb-8a20-4284-83b9-cac0c0d25262",
             "compositeImage": {
-                "id": "c10b2d81-8fee-41d5-9c6d-aec9edf1f93c",
+                "id": "618146b5-1755-4bfd-bbba-79f7000496ab",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "49fa944c-ce6c-4172-8863-cad9cc979486",
+                "FrameId": "a019ff68-c210-437d-80a4-e1603fb5466b",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "687e1230-6a7a-442c-808b-2dcbd168ba3a",
+                    "id": "dec3178c-3b1f-47ad-a278-e868b116086d",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "49fa944c-ce6c-4172-8863-cad9cc979486",
-                    "LayerId": "bce53a84-5d75-4cc2-8082-5109c694da4d"
+                    "FrameId": "a019ff68-c210-437d-80a4-e1603fb5466b",
+                    "LayerId": "5131a0cb-4e0a-45b5-a7ed-a72d42a77f70"
                 }
             ]
         }
@@ -42,7 +42,7 @@
     "height": 70,
     "layers": [
         {
-            "id": "bce53a84-5d75-4cc2-8082-5109c694da4d",
+            "id": "5131a0cb-4e0a-45b5-a7ed-a72d42a77f70",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "5c2ad0bb-8a20-4284-83b9-cac0c0d25262",
@@ -53,7 +53,7 @@
             "visible": true
         }
     ],
-    "origin": 9,
+    "origin": 0,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "sepmasks": false,
@@ -61,7 +61,7 @@
     "swfPrecision": 2.525,
     "textureGroup": 0,
     "type": 0,
-    "width": 70,
-    "xorig": 26,
+    "width": 18,
+    "xorig": 0,
     "yorig": 0
 }

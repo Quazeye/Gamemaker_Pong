@@ -1,3 +1,5 @@
+ballW = sprite_width/2;
+
 x = 300;
 y = 300;
 

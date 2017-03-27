@@ -1,5 +1,7 @@
-x = 100;
-y = 100;
+radius = 10;
 
-ballSpeedX = 2;
-ballSpeedY = 2;
+x = 400;
+y = 400;
+
+ballSpeedX = 4;
+ballSpeedY = 4;
