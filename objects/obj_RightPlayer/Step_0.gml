@@ -1,8 +1,7 @@
-/*paddleCentre = y + (sprite_height / 2);
-if (paddleCentre < obj_Ball.y - 35) {
-	y += 10;
-} else if (paddleCentre > obj_Ball.y + 35) {
-	y -= 10;
+paddleCentre = y + (sprite_height / 2);
+if (paddleCentre < obj_Ball.y - 30) {
+	y += 8;
+} else if (paddleCentre > obj_Ball.y + 30) {
+	y -= 8;
 }
-*/
-y = mouse_y - sprite_height / 2;
+
