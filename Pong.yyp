@@ -119,14 +119,6 @@
             }
         },
         {
-            "Key": "613194aa-f61c-4fed-886f-4ac74c9580e8",
-            "Value": {
-                "id": "7c9c2f3a-a471-4fc9-b299-e45f3bb30c6e",
-                "resourcePath": "objects\\obj_FRTCAS\\obj_FRTCAS.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "18d00198-40c9-413b-932a-bc163313c855",
@@ -151,14 +143,6 @@
             }
         },
         {
-            "Key": "91de24f6-521b-4fd1-b6b8-e8db4d6c9852",
-            "Value": {
-                "id": "4d9b1791-2a86-4a6b-9a37-37029d19ab50",
-                "resourcePath": "objects\\object_1\\object_1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "999ddbf1-7fb5-44dd-9153-530e58c197e9",
             "Value": {
                 "id": "6347e912-d06a-4cdb-b58e-272240bf83b4",
@@ -175,27 +159,11 @@
             }
         },
         {
-            "Key": "a0bb8161-6d38-4868-990b-fbd648980474",
-            "Value": {
-                "id": "387e08de-9efa-41c3-9805-c45e151dbe3d",
-                "resourcePath": "sprites\\spr_FRTCAS\\spr_FRTCAS.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a40b2186-0137-4fbc-a92f-627aa01c5cd3",
             "Value": {
                 "id": "24851adb-cd81-4d1a-a337-5faaeb2db058",
                 "resourcePath": "views\\a40b2186-0137-4fbc-a92f-627aa01c5cd3.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a785559c-15e5-4431-b7ef-309f9fed73e7",
-            "Value": {
-                "id": "9705dbbe-bd30-4f96-bfdb-a1021933765b",
-                "resourcePath": "sprites\\sprite_1\\sprite_1.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
