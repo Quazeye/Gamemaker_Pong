@@ -10,10 +10,7 @@ if (x + obj_RightPlayer.sprite_width/1.5 >= room_width) {
 		ballSpeedY = deltaY * 0.30;
 	} else {
 		global.scoreLeft += 1;
-		ballSpeedX = -ballSpeedX;
-		ballSpeedY = choose(-3, 3);
-		x = room_width / 2;
-		y = room_height /2;
+		scr_ballReset();
 	}
 }
 
@@ -25,10 +22,7 @@ if (x - obj_LeftPlayer.sprite_width/1.5 <= 0) {
 		ballSpeedY = deltaY * 0.30;
 	} else {
 		global.scoreRight += 1;
-		ballSpeedX = -ballSpeedX;
-		ballSpeedY = choose(-3, 3);
-		x = room_width / 2;
-		y = room_height /2;
+		scr_ballReset();
 	}
 }
 

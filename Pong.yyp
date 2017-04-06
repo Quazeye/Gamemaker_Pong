@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "20ff5fdc-5d0e-47bd-b3ae-e27ae2e82632",
+            "Value": {
+                "id": "a6883cfe-fb0f-49ca-8702-4795ebf70a35",
+                "resourcePath": "objects\\obj_Button\\obj_Button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "29c27b5f-d495-4546-afa6-e2e9713baa2a",
             "Value": {
                 "id": "48a3d952-d970-40a8-ba36-ae0103c1f59e",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "6ac794f0-3a5b-4bf0-8289-2d61adb82dd1",
+            "Value": {
+                "id": "0b8aa515-05ad-494b-a055-ed3aa29f0e0d",
+                "resourcePath": "rooms\\rm_WinScreen\\rm_WinScreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "18d00198-40c9-413b-932a-bc163313c855",
@@ -140,6 +156,14 @@
                 "id": "6c326090-bf8c-4554-b217-6f44f1602da9",
                 "resourcePath": "views\\900b984c-2ab9-400a-a70d-9ba7d4ab851b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "91b1049c-27dc-4b42-83d8-a66361cd9934",
+            "Value": {
+                "id": "b5daf8fd-9eda-469a-b31e-75691b1cb715",
+                "resourcePath": "objects\\obj_Win\\obj_Win.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -215,6 +239,14 @@
             }
         },
         {
+            "Key": "d2b12fb4-96e1-4904-a310-e23ced247527",
+            "Value": {
+                "id": "e316606b-f24e-4ffb-9c11-ca0ce83087b6",
+                "resourcePath": "scripts\\scr_ballReset\\scr_ballReset.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dda24501-8bdc-4ac1-b758-71111f2a8d32",
             "Value": {
                 "id": "95e080b6-ce53-48d1-b681-40d8ec7c395d",
@@ -228,6 +260,14 @@
                 "id": "e8261699-7a60-4e07-ab2d-e2643a54c3c2",
                 "resourcePath": "views\\df517c40-a577-447b-86e0-21d02a4649fb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "df694e08-3b24-4859-b67c-f2d1d7005afe",
+            "Value": {
+                "id": "9bae601f-0eaa-43bf-abe7-384f6a62db5b",
+                "resourcePath": "sprites\\spr_Button\\spr_Button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -256,7 +296,7 @@
         }
     ],
     "script_order": [
-        
+        "d2b12fb4-96e1-4904-a310-e23ced247527"
     ],
     "tutorial": ""
 }
